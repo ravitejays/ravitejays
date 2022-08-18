@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravitejays
 - 👀 I’m interested in Python, AI & ML, Data Science, Blockchain
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ...youngstarravi121@gmail.com
+- 🌱 I’m currently implementing the Machine learning models and learning deep learning models
+- 📫 How to reach me @ youngstarravi121@gmail.com
 
 <!---
 ravitejays/ravitejays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
